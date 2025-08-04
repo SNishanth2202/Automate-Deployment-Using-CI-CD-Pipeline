@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "node": "^22.18.0"
+  },
+  "name": "automate-deployment-using-ci-cd-pipeline",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SNishanth2202/Automate-Deployment-Using-CI-CD-Pipeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SNishanth2202/Automate-Deployment-Using-CI-CD-Pipeline/issues"
+  },
+  "homepage": "https://github.com/SNishanth2202/Automate-Deployment-Using-CI-CD-Pipeline#readme",
+  "description": ""
+}
